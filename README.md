@@ -50,7 +50,7 @@ O DevRadar é um projeto que visa encontrar devs que trabalhem em uma tecnologia
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT by Rocketseat <a href="https://github.com/liveicaro/semana-omnistack-9/commit/21fdfbd2be2cafb039ae48180da1059c8430310e#diff-37854d19817c792316d481f5beb93cc7."></a>
+Esse projeto está sob a licença MIT by Rocketseat.
 
 ---
 
