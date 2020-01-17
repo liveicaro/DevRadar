@@ -43,14 +43,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevRadar é um projeto que visa encotrar devs que trabalhem em uma tecnologia em especifico ou um conjunto, seja pra montar um time para um projeto ou para criação de uma startup, ou para tomar uma cervejas e trocar ideias. :)
+O DevRadar é um projeto que visa encontrar devs que trabalhem em uma tecnologia em especifico ou um conjunto, seja pra montar um time para um projeto ou para criação de uma startup, ou para tomar uma cervejas e trocar ideias. :)
 
 >Esse projeto foi feito no Windows, depois irei fazer outro no Linux para aplicar os conhecimentos adquiridos nessa semana.
 
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT by Rocketseat <a href="https://github.com/liveicaro/semana-omnistack-9/commit/21fdfbd2be2cafb039ae48180da1059c8430310e#diff-37854d19817c792316d481f5beb93cc7."></a>
 
 ---
 
