@@ -12,9 +12,10 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/liveicaro/DevRadar.svg">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/issues">
+   <a href="https://github.com/liveicaro/DevRadar/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/liveicaro/DevRadar.svg">
   </a>
+
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
